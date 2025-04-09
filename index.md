@@ -1,4 +1,4 @@
 ---
-title: The New Arcade Blog
+The New Arcade Blog
 ---
 # List of Blog Posts
